@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Duck\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="FlyBehavior\" />
+    <Folder Include="QuackBehavior\" />
+  </ItemGroup>
 </Project>

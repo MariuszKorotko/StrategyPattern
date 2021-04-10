@@ -2,11 +2,10 @@
 
 namespace StrategyPattern
 {
-    class Program
+    class MiniDuckSimulator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
