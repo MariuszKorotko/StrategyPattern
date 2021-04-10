@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Duck\" />
+    <Folder Include="Duks\" />
     <Folder Include="Interfaces\" />
     <Folder Include="FlyBehavior\" />
     <Folder Include="QuackBehavior\" />
